@@ -1,3 +1,5 @@
+视频课程:https://www.bilibili.com/video/BV1Mm4y117Ci
+<br><br>
 运行环境:
 <br>
 python==3.9
@@ -9,5 +11,3 @@ transformers==4.26.1
 datasets==2.9.0
 <br>
 diffusers==0.12.1
-<br>
-视频课程:https://www.bilibili.com/video/BV1Mm4y117Ci
